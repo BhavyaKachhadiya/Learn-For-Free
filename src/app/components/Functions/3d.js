@@ -1,4 +1,4 @@
-import Three_dChannels from '/My own projects/LearnForFree/learnforfree/src/app/API/GraphicDesign.json';
+import Three_dChannels from 'src/app/API/3d.json';
 // import webDevelopmentChannels from './webDevelopmentChannels.json';
 
 export default function Threed() {
