@@ -1,0 +1,23 @@
+{
+    "webDev": [
+       {
+          "name": "Mozilla Developer Network",
+          "url": "https://developer.mozilla.org/"
+       },
+       {
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com/"
+       }
+    ],
+    "graphicDesign": [
+       {
+          "name": "Behance",
+          "url": "https://www.behance.net/"
+       },
+       {
+          "name": "Canva",
+          "url": "https://www.canva.com/"
+       }
+    ]
+ }
+ 
