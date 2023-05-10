@@ -1,4 +1,28 @@
 [
-    { "name": "The ", "url": "url1" },
-    { "name": "Charli TV", "url": "url2" }
+    {
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqPmVT6_YQd7RIhhoy9So5Jk9Iqw8pzivKCfLPm_Yg=s176-c-k-c0x00ffffff-no-rj",
+        "name": "Code with Harry",
+        "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww"
+
+    },
+    {
+        "name": "Thapa Technical ",
+        "url": "https://www.youtube.com/@ThapaTechnical",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqMtuWDbBoKr5uSdFHmdaUCdcyh-5zRENrCDd_VxwA=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "College Wallah",
+        "url": "https://www.youtube.com/@CollegeWallahbyPW",
+        "img": "https://yt3.googleusercontent.com/RyeP9L6S_rfuxMCcs9OnWaODqDpgSi9NyzQTtT_aSXIvdoe1jBuVr7kPBvsZJB6T3EEKQWlTnw=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Coding Shuttle by Anuj Bhaiya",
+        "url": "https://www.youtube.com/@codingshuttle",
+        "img": "https://yt3.googleusercontent.com/ZtTC1B4j2WXtF_WxiFu58Al15AG3Ni73NGcHgSp8WnyLwG7joy5WUG6bnSKRII4_P7PjFo6BG9I=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Apna College",
+        "url": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "img": "https://yt3.googleusercontent.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s176-c-k-c0x00ffffff-no-rj"
+    }
 ]
