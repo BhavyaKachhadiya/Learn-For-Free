@@ -7,10 +7,12 @@ import data from './components/Functions/WebDev.js'
 export default function Home() {
   return (
     <>
+    <div class="container">
       <h3>Graphic Design</h3> 
       <GraphicDesignChannel channels={data}/>
       <h3>Website Develoment</h3>
       <WebDevelopmentChannel channels={data} />
+      </div>
     </>
   )
 }

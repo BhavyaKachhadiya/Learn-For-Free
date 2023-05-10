@@ -20,7 +20,7 @@ export default function Header() {
           <a class="nav-link" href="/website-develoment">Website Development</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#" >3D</a>
+          <a class="nav-link " href="/3d" >3D</a>
         </li>
       </ul>
     </div>
