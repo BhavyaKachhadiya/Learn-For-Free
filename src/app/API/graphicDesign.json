@@ -1,9 +1,21 @@
 [
     {
         "id": "1",
-        "name": "Carli Marie TV",
-        "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
-        "img": "https://yt3.googleusercontent.com/O12gYmCwBASezJpxddXOj1PEirMgxCGX2gOiJ3plomaK4E0K1hr_iobbQEWz1e4QVMflTmug=s176-c-k-c0x00ffffff-no-rj"
+        "name": "Am lit",
+        "url": "https://www.youtube.com/@AmLit",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqO0MexPS0WkMyFTW-7UuUDFciPnq9KjcUdzGMvfCw=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": "2",
+        "name": "GFXMentor",
+        "url": "https://www.youtube.com/@GFXMentor",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqNtYihfN7yJ2nS00KYqxP87dVZgUAbCMPaAY35Y0w=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": "3",
+        "name": "Graphics Guruji",
+        "url": "https://www.youtube.com/@GraphicsGuruji",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqNA_gtICRhAQANr43oVEhak01a5O2VNpHep904Jgg=s176-c-k-c0x00ffffff-no-rj"
     }
     
 ]

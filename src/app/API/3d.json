@@ -1,4 +1,14 @@
 [
-    { "name": "The Futur", "url": "url1" },
-    { "name": "Charli Marie TV", "url": "url2" }
+    {
+        "id": "1",
+        "name": "Blender Guru",
+        "url": "https://www.youtube.com/@blenderguru",
+        "img": "https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": "2",
+        "name": "CG Geek",
+        "url": "https://www.youtube.com/@CGGeek",
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqOrZsSxQGpWWUd8Fz_eM_LBLig7oJtdG1Dnqo-24A=s176-c-k-c0x00ffffff-no-rj"
+    }
 ]
