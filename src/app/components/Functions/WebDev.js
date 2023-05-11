@@ -18,7 +18,7 @@ export default function GraphicDesign() {
         <div >
           <div class="card" style={{width: 18 + 'rem' }}>
            <div class={styles.img_img}>
-  <img src={channel.img} style={mystyle} class="card-img-top img" alt={channel.name}/>
+  <Image src={channel.img} style={mystyle} width={90} height={90}  class="card-img-top img" alt={channel.name}/>
        </div>
     <div class="card-body">
     <h5 class="card-title"style={{height: "35px"}} >{channel.name}</h5>
