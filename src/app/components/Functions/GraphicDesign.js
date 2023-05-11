@@ -15,7 +15,7 @@ export default function GraphicDesign() {
   
     <div class="d-flex gap-5 flex-wrap  justify-content-center justify-content-md-start mb-5">
       {graphicDesignChannels.map((channel) => (
-        <div >
+        <div key={channel.name}>
           <div class="card" style={{width: 18 + 'rem' }}>
            <div class={styles.img_img}>
   <Image src={channel.img} style={mystyle} width={90} height={90} class="card-img-top img" alt={channel.name}/>
