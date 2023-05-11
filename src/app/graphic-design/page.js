@@ -1,15 +1,13 @@
-import React from 'react'
-import GraphicDesignChannel from '../components/Functions/GraphicDesign'
-import data from '../components/Functions/GraphicDesign'
+import ChannelList from 'src/app/components/Functions/All';
+import graphicDesignChannels from 'src/app/API/graphicDesign.json';
 
-export default function GraphicDesign() {
+export default function GraphicDesignPage() {
   return (
     <>
     <div class="container">
-    <h1>Graphic Design</h1>
-    <GraphicDesignChannel channels={data} />
+      <h1 style={{marginBottom: 50 +"px"}}>Graphic Design</h1>
+    <ChannelList channels={graphicDesignChannels} category="Graphic Design" />
     </div>
     </>
-  )
-
+  );
 }

@@ -1,15 +1,13 @@
-import React from 'react'
-import Three_dChannel from '../components/Functions/3d'
-import data from '../components/Functions/3d'
+import ChannelList from 'src/app/components/Functions/All';
+import ThreedChannels from 'src/app/API/3d.json';
 
-export default function d() {
+export default function GraphicDesignPage() {
   return (
     <>
     <div class="container">
-    <h1>Best Youtube channel For 3d</h1>
-    <Three_dChannel channels={data} />
+      <h1 style={{marginBottom: 50 +"px"}}>Graphic Design</h1>
+    <ChannelList channels={ThreedChannels} category="3D" />
     </div>
     </>
-  )
-
+  );
 }
