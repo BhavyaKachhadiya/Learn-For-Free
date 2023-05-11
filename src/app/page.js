@@ -28,7 +28,7 @@ export default function Home() {
     <>
     <div class="container">
       <h1 style={{marginBottom: 50 +"px"}}>Graphic Design</h1>
-    <ChannelList channels={webDevelopmentChannels} category="Web Develpment" />
+    <ChannelList channels={webDevelopmentChannels} category="Web Development" />
     </div>
     </>
   );
