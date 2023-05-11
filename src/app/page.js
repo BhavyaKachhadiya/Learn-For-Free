@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <>
     <div class="container">
-      <h1 style={{marginBottom: 50 +"px"}}>Graphic Design</h1>
+      <h1 style={{marginBottom: 50 +"px"}}>WebsiteDevelopment</h1>
     <ChannelList channels={webDevelopmentChannels} category="Web Development" />
     </div>
     </>
