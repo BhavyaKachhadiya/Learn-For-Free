@@ -5,7 +5,7 @@ export default function GraphicDesignPage() {
   return (
     <>
     <div class="container">
-      <h1 style={{marginBottom: 50 +"px"}}>Graphic Design</h1>
+      <h1 style={{marginBottom: 50 +"px"}}>3D</h1>
     <ChannelList channels={ThreedChannels} category="3D" />
     </div>
     </>
